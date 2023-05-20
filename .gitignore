@@ -14,16 +14,16 @@ migrate_working_dir/
 *.iml
 *.ipr
 *.iws
-.idea/
-.linux/
-.web/
-.windows/
-*.metadata
-.macos/
+*.idea/
+*.linux/
+*.web/
+*.windows/
+.metadata
+*.macos/
 .analysis_options.yaml
-.ios/
-.test/
-.android/
+*.ios/
+*.test/
+*.android/
 # The .vscode folder contains launch configuration and tasks you configure in
 # VS Code which you may wish to be included in version control, so this line
 # is commented out by default.
